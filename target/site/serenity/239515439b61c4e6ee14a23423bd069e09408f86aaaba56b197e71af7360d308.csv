@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Book curd test","updating booking ","FAILURE","2022-06-06T22:35:05.433+01:00[Europe/London]","0.0","1.89"
+"Book curd test","deleting booking","FAILURE","2022-06-06T22:35:07.333+01:00[Europe/London]","0.0","1.69"
